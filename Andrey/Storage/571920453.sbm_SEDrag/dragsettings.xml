@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DragSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SmallShipMaxSpeed>1.5E+08</SmallShipMaxSpeed>
+  <LargeShipMaxSpeed>1.5E+08</LargeShipMaxSpeed>
+  <AtmosphereExtension>1.5</AtmosphereExtension>
+  <EnableCharacterDrag>true</EnableCharacterDrag>
+  <DeflectionMult>100</DeflectionMult>
+  <AtmosphericMinimum>0</AtmosphericMinimum>
+  <RotationalDragMultiplier>100</RotationalDragMultiplier>
+  <advancedlift>false</advancedlift>
+  <SimulateWind>false</SimulateWind>
+  <mult>100</mult>
+  <radMult>100</radMult>
+  <heat>true</heat>
+  <digi>false</digi>
+  <EnableOcclusion>true</EnableOcclusion>
+  <WindGenSeed>0</WindGenSeed>
+  <DisableReEntry>false</DisableReEntry>
+  <SimulationMaxSpeed>5000</SimulationMaxSpeed>
+</DragSettings>
